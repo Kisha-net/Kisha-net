@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antoinette
 - 👀 I’m interested in networking and coding
-- 🌱 I’m currently learning git and python 
+- 🌱 I’m currently learning Cloud Computing and python 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me antoinetteakinyi7@gmail.com
 
