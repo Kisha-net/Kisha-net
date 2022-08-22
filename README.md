@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Antoinette
+-  I am a Kotlin Android Developer and also a FullStack Web Developer
 - 👀 I’m interested in DevOps,networking and Cyber Security
 - 🌱 I’m currently learning Cloud Computing ,DevOps and python
 - 💞️ I’m looking to collaborate on open source projects
