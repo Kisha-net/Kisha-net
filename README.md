@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Antoinette
-- 👀 I’m interested in networking and coding
-- Currently working on my DevOps skills
-- 🌱 I’m currently learning Cloud Computing and python 
+- 👀 I’m interested in DevOps,networking and Cyber Security
+- 🌱 I’m currently learning Cloud Computing ,DevOps and python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me antoinetteakinyi7@gmail.com
 
